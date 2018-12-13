@@ -1,4 +1,4 @@
-### On Point talks
+### "On Point" talks
 Place and time is up to discussion.<br />
 The talks are planed to begin in 2019.
 
