@@ -1,4 +1,4 @@
-![](./assets/logo.png =100x100)
+<img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header.png">
 
 ### "On Point" talks
 Place and time is up to discussion.<br />
