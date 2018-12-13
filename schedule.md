@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header.jpg">
+<img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
 ### "On Point" talks
 Place and time is up to discussion.<br />
