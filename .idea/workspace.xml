@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="190bf3da-0994-4b90-94d3-2751001b64e6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/header.psd" beforeDir="false" afterPath="$PROJECT_DIR$/assets/header.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/header.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,7 +44,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="72" selection-start-column="10" selection-end-column="72" />
+                <caret column="90" selection-start-column="90" selection-end-column="90" />
               </first_editor>
               <second_editor />
             </state>
@@ -147,7 +148,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15753424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15753424" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" />
@@ -156,7 +157,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Quokka" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297414" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -214,7 +215,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="72" selection-start-column="10" selection-end-column="72" />
+            <caret column="90" selection-start-column="90" selection-end-column="90" />
           </first_editor>
           <second_editor />
         </state>
