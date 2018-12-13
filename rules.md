@@ -1,4 +1,4 @@
-###Not rules:
+### Not rules:
 
 1. "On point" talks are designed to be short presentations around 20 minutes long with 10min for QA.
 2. The talks objective is to present small, comprehensive topics and let presenters work on their teaching skills.
