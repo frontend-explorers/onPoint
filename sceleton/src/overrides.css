@@ -1,0 +1,21 @@
+.prism-code {
+  font-size: 2em !important;
+  border-left: none !important;
+  box-shadow: 0px 0px 0px 0px #fff, 0px 0px 0px 1px #dfdfdf !important;
+}
+
+.token.string,.token.char {
+  color: rebeccapurple !important;
+}
+
+.token.function {
+  color: maroon !important;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+}
