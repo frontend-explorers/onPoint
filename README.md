@@ -10,4 +10,4 @@ The talks are planed to begin in 2019.
 
 > <b>Redux without the Redux. Implementing the Redux idea with the latest tools.</b><br /> Ivaylo Zhekov
 
-> <b>Functional programing |> javascript</b><br /> Nikolay Aleksandrenko
+> <b>Functional programing |> practical |> javascript</b><br /> Nikolay Aleksandrenko
