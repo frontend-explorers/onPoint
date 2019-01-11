@@ -14,7 +14,7 @@ Prerequisites: ...
 > <b>Unknown</b><br /> Author<br />
 Prerequisites: ...
 
-#### 11.01.2019<br /> Floor 10, Room "Stand-up"
+####  (DONE) 11.01.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Redux without the Redux. Implementing the Redux idea with the latest tools.</b><br /> Ivaylo Zhekov<br />
 https://l3pmkvlkpm.codesandbox.io/#/title
