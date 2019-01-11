@@ -5,8 +5,15 @@ Place and time is up to discussion.<br />
 The talks are planed to begin in 2019.
 
 <br />
+#### 25.01.2019<br /> Floor 10, Room "Stand-up"
 
-#### 11.01.2019<br /> Floor XX, Room XXXX
+> <b>Unknown</b><br /> Author<br />
+Prerequisites: ...
+
+> <b>Unknown</b><br /> Author<br />
+Prerequisites: ...
+
+#### (DONE) 11.01.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Redux without the Redux. Implementing the Redux idea with the latest tools.</b><br /> Ivaylo Zhekov<br />
 https://l3pmkvlkpm.codesandbox.io/#/title
