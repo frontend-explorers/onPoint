@@ -6,7 +6,7 @@ Possible Topics:
 - debugging
 - typesript - why?
 - application architecture
-- design patterns
+- ~~design patterns~~
 - from old to new (from loops to -> @, async, await, function*, reactive fp)
 - performance optimisation
 - problem solving - how to attack a problem
