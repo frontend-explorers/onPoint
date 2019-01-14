@@ -6,8 +6,8 @@
 
 #### 25.01.2019<br /> Floor 10, Room "Stand-up"
 
-> <b>Unknown</b><br /> Author<br />
-Prerequisites: ...
+> <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (BG)<br />
+Prerequisites: Programming basics
 
 > <b>Unknown</b><br /> Author<br />
 Prerequisites: ...
