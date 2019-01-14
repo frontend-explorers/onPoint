@@ -4,13 +4,13 @@
 
 ---
 
-#### 25.01.2019<br /> Floor 10, Room "Stand-up"
+#### 01.02.2019<br /> Floor 10, Room "Stand-up"
 
-> <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (20-30min, BG)<br />
+> <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (30min, BG)<br />
 Prerequisites: Programming basics
 
-> <b>Unknown</b><br /> Author<br />
-Prerequisites: ...
+> <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
+Prerequisites: basic git (add, commit, push)
 
 ---
 
