@@ -1,15 +1,27 @@
 Possible Topics:
 - data structures in practice
-- git
+- //git (Viktoria Dinkova)
 - css what's new
 - css what need to know to survive
 - debugging
 - typesript - why?
 - application architecture
-- //design patterns
+- //design patterns (Svilen Hadzhiev)
+- Reflect and decorators in action
 - from old to new (from loops to -> @, async, await, function*, reactive fp)
 - performance optimisation
 - problem solving - how to attack a problem
 - REST/API, server communication browser/mobile?
 - Backend problems? Is backend hard or just hidden?
 - Angular's Dependency Injection Mechanism
+- Reflect and decorators in action
+- Code rewiews, a good way
+- Refactoring
+- Webcomponents
+- Polymer
+- JS Decorators
+- Immutability (Immutable.js)
+- Progressive Web Apps (PWA)
+- Going To Interview: Best Practices
+- Flex that Flexbox
+
