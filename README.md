@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
+---
 
 ### #3 "On Point" talks
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
 
-> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (1h, BG)<br />
+> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
 Prerequisites: css 
 
 ---
