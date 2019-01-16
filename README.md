@@ -1,18 +1,15 @@
 <img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
+
 ### #3 "On Point" talks
-
----
-
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (1h, BG)<br />
 Prerequisites: css 
 
-### #2 "On Point" talks
-
 ---
 
+### #2 "On Point" talks
 #### 01.02.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (30min, BG)<br />
@@ -23,7 +20,8 @@ Prerequisites: basic git (add, commit, push)
 
 ---
 
-#### #1 (DONE) 11.01.2019<br /> Floor 10, Room "Stand-up"
+### #1 "On Point" talks (DONE)
+#### 11.01.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Redux without the Redux. Implementing the Redux idea with the latest tools.</b><br /> Ivaylo Zhekov<br />
 https://l3pmkvlkpm.codesandbox.io/#/title /presentation/<br />
