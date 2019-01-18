@@ -3,7 +3,7 @@
 ---
 
 ### #4 "On Point" talks
-#### 01.02.2019<br /> Floor 10, Room "Stand-up"
+#### 01.03.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Typescript:any</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
 Prerequisites: js - typescript free
