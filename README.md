@@ -8,8 +8,8 @@
 > <b>Typescript:any</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
 Prerequisites: js - typescript free
 
-> <b>Undefined </b><br /> Undefined (NaNmin, BG||EN)<br />
-Prerequisites: undefined
+> <b>Schmetterling - Chaos theory (working title </b><br /> Ivan Kazandzhiev (30min, BG)<br />
+Prerequisites: life
 
 ---
 
