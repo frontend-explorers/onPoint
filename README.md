@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
----
 
-## <img width="30" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
+
+## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
 
 ---
 
@@ -15,6 +15,17 @@ Prerequisites: Programming basics
 > <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
 Prerequisites: basic git (add, commit, push)
 
+
+## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
+
+
+
+### #3 "On Point" talks
+#### 15.02.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
+Prerequisites: css 
+
 ---
 
 ### #4 "On Point" talks
@@ -26,23 +37,9 @@ Prerequisites: js - typescript free
 > <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
 Prerequisites: life
 
----
 
-## Future Events
+## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Past Events
 
----
-
-### #3 "On Point" talks
-#### 15.02.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
-Prerequisites: css 
-
----
-
-## Past Events
-
----
 
 ### #1 "On Point" talks (DONE)
 #### 11.01.2019<br /> Floor 10, Room "Stand-up"
