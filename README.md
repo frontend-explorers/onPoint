@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
-## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event  
+## <img width="30" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> <div style="row-height: 30;">Next Event</div>
 
 #### 01.02.2019 - Floor 10, Room "Stand-up"
 
