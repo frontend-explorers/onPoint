@@ -1,4 +1,5 @@
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
+<br />
 
 ### #2 "On Point" talks
 #### 01.02.2019 - Floor 10, Room "Stand-up"
@@ -11,9 +12,7 @@ Prerequisites: basic git (add, commit, push)
 
 <br />
 
----
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
-
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> INCOMING EVENTS
 <br />
 
 ### #3 "On Point" talks
@@ -35,9 +34,7 @@ Prerequisites: life
 
 <br />
 
----
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Passed Events
-
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
 <br />
 
 ### #1 "On Point" talks
