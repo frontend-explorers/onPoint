@@ -2,7 +2,7 @@
 
 ---
 
-<img src="raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/next.png"> ## Next Event
+## <img src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
 
 ---
 
