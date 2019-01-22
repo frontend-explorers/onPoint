@@ -1,14 +1,7 @@
-<img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
-
-<br />
-
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
 
-#### 01.02.2019 - Floor 10, Room "Stand-up"
-
----
-
 ### #2 "On Point" talks
+#### 01.02.2019 - Floor 10, Room "Stand-up"
 
 > <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (30min, BG)<br />
 Prerequisites: Programming basics
@@ -20,7 +13,6 @@ Prerequisites: basic git (add, commit, push)
 
 ---
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
----
 
 <br />
 
@@ -45,7 +37,7 @@ Prerequisites: life
 
 ---
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Passed Events
----
+
 <br />
 
 ### #1 "On Point" talks
