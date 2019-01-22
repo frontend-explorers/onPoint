@@ -13,11 +13,13 @@ Prerequisites: Programming basics
 
 > <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
 Prerequisites: basic git (add, commit, push)
+
 </br>
 
 ---
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
 ---
+
 <br />
 
 ### #3 "On Point" talks
@@ -36,6 +38,7 @@ Prerequisites: js - typescript free
 
 > <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
 Prerequisites: life
+
 </br>
 
 ---
