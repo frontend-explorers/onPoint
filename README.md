@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
-## <img width="30" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
+## <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
 
 #### 01.02.2019 - Floor 10, Room "Stand-up"
 
@@ -16,7 +16,7 @@ Prerequisites: basic git (add, commit, push)
 </br>
 
 ---
-## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
+## <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
 ---
 <br />
 
@@ -39,7 +39,7 @@ Prerequisites: life
 </br>
 
 ---
-## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Past Events
+## <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Past Events
 ---
 <br />
 
