@@ -48,7 +48,7 @@ Prerequisites: life
 ---
 <br />
 
-### #1 "On Point" talks (DONE)
+### #1 "On Point" talks
 #### 11.01.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Redux without the Redux. Implementing the Redux idea with the latest tools.</b><br /> Ivaylo Zhekov<br />
