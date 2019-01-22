@@ -52,10 +52,9 @@ Prerequisites: life
 #### 11.01.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Redux without the Redux. Implementing the Redux idea with the latest tools.</b><br /> Ivaylo Zhekov<br />
-<a>https://l3pmkvlkpm.codesandbox.io/#/title</a> /presentation/<br />
-<a>https://codesandbox.io/s/2wyp51jxxp </a>      /live coding demo/
+<a href="https://l3pmkvlkpm.codesandbox.io/#/title">Presentation</a><br />
+<a href="https://codesandbox.io/s/2wyp51jxxp">Live coding demo</a>
 
 > <b>Functional programing</b><br /> Nikolay Aleksandrenko<br />
-<a>https://docs.google.com/presentation/d/1K1kEXhoy8Q52Z0NTwJ0OAa3i8rPPSrof4KdBKmAxhSQ/edit?usp=sharing</a>
+<a href="https://docs.google.com/presentation/d/1K1kEXhoy8Q52Z0NTwJ0OAa3i8rPPSrof4KdBKmAxhSQ/edit?usp=sharing">Presentation</a>
 
----
