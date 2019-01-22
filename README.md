@@ -1,13 +1,10 @@
 <img src="https://raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/header_815x315.jpg">
 
-
-
 ## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> Next Event
-
+#### 01.02.2019<br /> Floor 10, Room "Stand-up"
 ---
 
 ### #2 "On Point" talks
-#### 01.02.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (30min, BG)<br />
 Prerequisites: Programming basics
@@ -16,9 +13,11 @@ Prerequisites: Programming basics
 Prerequisites: basic git (add, commit, push)
 
 
+<br />
+---
 ## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> Future Events
-
-
+---
+<br />
 
 ### #3 "On Point" talks
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
@@ -37,9 +36,11 @@ Prerequisites: js - typescript free
 > <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
 Prerequisites: life
 
-
+<br />
+---
 ## <img width="20" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Past Events
-
+---
+<br />
 
 ### #1 "On Point" talks (DONE)
 #### 11.01.2019<br /> Floor 10, Room "Stand-up"
