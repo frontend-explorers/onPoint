@@ -2,22 +2,7 @@
 
 ---
 
-### #4 "On Point" talks
-#### 01.03.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>Typescript:any</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
-Prerequisites: js - typescript free
-
-> <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
-Prerequisites: life
-
----
-
-### #3 "On Point" talks
-#### 15.02.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
-Prerequisites: css 
+<img src="raw.githubusercontent.com/aleksandrenko/onPoint/master/assets/next.png"> ## Next Event
 
 ---
 
@@ -29,6 +14,33 @@ Prerequisites: Programming basics
 
 > <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
 Prerequisites: basic git (add, commit, push)
+
+---
+
+### #4 "On Point" talks
+#### 01.03.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>Typescript:any</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
+Prerequisites: js - typescript free
+
+> <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
+Prerequisites: life
+
+---
+
+## Future Events
+
+---
+
+### #3 "On Point" talks
+#### 15.02.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
+Prerequisites: css 
+
+---
+
+## Past Events
 
 ---
 
