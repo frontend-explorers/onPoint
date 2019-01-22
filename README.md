@@ -42,7 +42,7 @@ Prerequisites: life
 <br />
 
 ---
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Past Events
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> Passed Events
 ---
 <br />
 
