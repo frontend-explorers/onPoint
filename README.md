@@ -11,7 +11,7 @@ Prerequisites: basic git (add, commit, push)
 
 <br />
 
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> INCOMING EVENTS
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 ### #3 "On Point" talks
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
