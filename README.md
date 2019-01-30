@@ -6,7 +6,7 @@
 > <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
 Prerequisites: basic git (add, commit, push)
 
-> <b>Defensive JavaScript - In God we trust, everyone else we verify.</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
+> <b>Defensive Programming - In God we trust, everyone else we verify.</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
 Prerequisites: Programming basics
 
 <br />
