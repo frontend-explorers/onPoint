@@ -6,7 +6,7 @@ Possible Topics:
 - debugging
 - typesript - why?
 - application architecture
-- //design patterns (Svilen Hadzhiev)
+- design patterns
 - Reflect and decorators in action
 - from old to new (from loops to -> @, async, await, function*, reactive fp)
 - performance optimisation
@@ -14,7 +14,6 @@ Possible Topics:
 - REST/API, server communication browser/mobile?
 - Backend problems? Is backend hard or just hidden?
 - Angular's Dependency Injection Mechanism
-- Reflect and decorators in action
 - Code rewiews, a good way
 - Refactoring
 - Webcomponents
@@ -24,4 +23,4 @@ Possible Topics:
 - Progressive Web Apps (PWA)
 - Going To Interview: Best Practices
 - Flex that Flexbox
-- Defensive JavaScript
+// Defensive JavaScript (Niklay Aleksandrenko)
