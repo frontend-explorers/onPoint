@@ -3,11 +3,11 @@
 ### #2 "On Point" talks
 #### 01.02.2019 - Floor 10, Room "Stand-up"
 
-> <b>JavaScript in Patterns (Design Patterns)</b><br /> Svilen Hadziev (30min, BG)<br />
-Prerequisites: Programming basics
-
 > <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
 Prerequisites: basic git (add, commit, push)
+
+> <b>Defensive JavaScript - In God we trust, everyone else we verify.</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
+Prerequisites: Programming basics
 
 <br />
 
