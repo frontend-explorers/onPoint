@@ -1,27 +1,14 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 
-### #2 "On Point" talks
-#### 01.02.2019 - Floor 10, Room "Stand-up"
-
-> <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
-Prerequisites: basic git (add, commit, push)<br />
-<a href="https://docs.google.com/presentation/d/1vi3vOoFJgJ6bPIm8AIQAO_RXZwYzxgmPBT6xnvGdec8/edit?usp=sharing">Presentation</a>
-
-> <b>Defensive Programming - In God we trust, everyone else we verify.</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
-Prerequisites: Programming basics<br />
-<a href="https://docs.google.com/presentation/d/1jwzZNUO133yDx-dgbLkzbAO4ergdSpwgPvuCzmLC6z4/edit?usp=sharing">Presentation</a>
-
-<br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
-
 ### #3 "On Point" talks
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
 Prerequisites: css 
 
----
+<br />
+
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
@@ -35,6 +22,18 @@ Prerequisites: life
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
+### #2 "On Point" talks
+#### 01.02.2019 - Floor 10, Room "Stand-up"
+
+> <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
+Prerequisites: basic git (add, commit, push)<br />
+<a href="https://docs.google.com/presentation/d/1vi3vOoFJgJ6bPIm8AIQAO_RXZwYzxgmPBT6xnvGdec8/edit?usp=sharing">Presentation</a>
+
+> <b>Defensive Programming - In God we trust, everyone else we verify.</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
+Prerequisites: Programming basics<br />
+<a href="https://docs.google.com/presentation/d/1jwzZNUO133yDx-dgbLkzbAO4ergdSpwgPvuCzmLC6z4/edit?usp=sharing">Presentation</a>
+<br />
 
 ### #1 "On Point" talks
 #### 11.01.2019<br /> Floor 10, Room "Stand-up"
