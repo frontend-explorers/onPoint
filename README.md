@@ -4,11 +4,11 @@
 #### 01.02.2019 - Floor 10, Room "Stand-up"
 
 > <b>Git-Git</b><br /> Viktoria Dinkova (30min, BG)<br />
-Prerequisites: basic git (add, commit, push)
+Prerequisites: basic git (add, commit, push)<br />
 <a href="https://docs.google.com/presentation/d/1vi3vOoFJgJ6bPIm8AIQAO_RXZwYzxgmPBT6xnvGdec8/edit?usp=sharing">Presentation</a>
 
 > <b>Defensive Programming - In God we trust, everyone else we verify.</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
-Prerequisites: Programming basics
+Prerequisites: Programming basics<br />
 <a href="https://docs.google.com/presentation/d/1jwzZNUO133yDx-dgbLkzbAO4ergdSpwgPvuCzmLC6z4/edit?usp=sharing">Presentation</a>
 
 <br />
@@ -26,7 +26,7 @@ Prerequisites: css
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
 
-> <b>Typescript:any</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
+> <b>Design Patterns</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
 Prerequisites: js - typescript free
 
 > <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
