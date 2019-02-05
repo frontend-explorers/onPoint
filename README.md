@@ -16,7 +16,7 @@ Prerequisites: css
 > <b>Design Patterns</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
 Prerequisites: js - typescript free
 
-> <b>Schmetterling - Chaos theory (working title)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
+> <b>Schmetterling - Chaos theory (dev story)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
 Prerequisites: life
 
 <br />
