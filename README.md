@@ -1,16 +1,4 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
-
-### #3 "On Point" talks
-#### 15.02.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
-Prerequisites: css<br />
-<a href="https://slides.com/kirildaskalov/deck/fullscreen#/">Presentation</a>
-
-<br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
-
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
 
@@ -19,10 +7,22 @@ Prerequisites: js - typescript free
 
 > <b>Schmetterling - Chaos theory (dev story)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
 Prerequisites: life
+<br />
 
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
+
+...
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
+### #3 "On Point" talks
+#### 15.02.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
+Prerequisites: css<br />
+<a href="https://slides.com/kirildaskalov/deck/fullscreen#/">Presentation</a>
+<br />
 
 ### #2 "On Point" talks
 #### 01.02.2019 - Floor 10, Room "Stand-up"
