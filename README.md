@@ -4,7 +4,8 @@
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>How to write structured S(CSS) + Trick & tips </b><br /> Kiril Daskalov (60min, BG)<br />
-Prerequisites: css 
+Prerequisites: css
+<a href="https://slides.com/kirildaskalov/deck/fullscreen#/">Presentation</a>
 
 <br />
 
