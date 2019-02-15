@@ -12,7 +12,7 @@ Prerequisites: life
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 ...
-<br />
+<br /><br /><br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
 
