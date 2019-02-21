@@ -2,7 +2,7 @@
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
 
-> <b>Design Patterns</b><br /> Nikoleta Terzieva (XXmin, BG)<br />
+> <b>Design Patterns</b><br /> Nikoleta Terzieva (30min, BG)<br />
 Prerequisites: js - typescript free
 
 > <b>Schmetterling - Chaos theory (dev story)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
@@ -11,8 +11,12 @@ Prerequisites: life
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
-...
-<br /><br /><br />
+### #5 "On Point" talks
+#### 01.04.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>Unit testing for Angular, services and state management</b><br /> Anton Mitsev (30||60min, BG)<br />
+Prerequisites: Angular, NGRX, unit testing
+<br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
 
