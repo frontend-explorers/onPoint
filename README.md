@@ -5,8 +5,8 @@
 > <b>Design Patterns</b><br /> Nikoleta Terzieva (30min, BG)<br />
 Prerequisites: js - typescript free
 
-> <b>Micro Frontends</b><br /> Nikolay Aleksandrenko (30min, BG)<br />
-Prerequisites: experience developing complex applications with big teams
+> <b>Schmetterling - Chaos theory (dev story)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
+Prerequisites: life
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
