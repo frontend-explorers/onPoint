@@ -1,4 +1,17 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
+### #5 "On Point" talks
+#### 01.04.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>Unit testing for Angular, services and state management</b><br /> Anton Mitsev (30||60min, BG)<br />
+Prerequisites: Angular, NGRX, unit testing
+<br />
+
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
+
+<br />
+
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
 
@@ -8,17 +21,6 @@ Prerequisites: js - typescript free
 > <b>Schmetterling - Chaos theory (dev story)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
 Prerequisites: life
 <br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
-
-### #5 "On Point" talks
-#### 01.04.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>Unit testing for Angular, services and state management</b><br /> Anton Mitsev (30||60min, BG)<br />
-Prerequisites: Angular, NGRX, unit testing
-<br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
 
 ### #3 "On Point" talks
 #### 15.02.2019<br /> Floor 10, Room "Stand-up"
