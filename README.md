@@ -20,7 +20,8 @@ Prerequisites: js - typescript free<br />
 <a href="https://github.com/FED-EPAM/onPoint/tree/master/presentations/%234%20Design%20Patterns">Presentation & Code examples</a>
 
 > <b>Schmetterling - Chaos theory (dev story)</b><br /> Ivan Kazandzhiev (30min, BG)<br />
-Prerequisites: life
+Prerequisites: life<br />
+<a href="https://github.com/FED-EPAM/onPoint/blob/master/presentations/%234%20DevStory.pptx">Presentation</a>
 <br />
 
 ### #3 "On Point" talks
