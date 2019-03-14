@@ -27,6 +27,10 @@
 > <b>RoadMaps to Application Development</b>
 <br />Ivelina Kostadinova (60min, BG)
 <br />Prerequisites: done projects
+
+> <b>Premature Generalization</b>
+<br />Stoyan Karev (45min, BG)
+<br />Prerequisites: done projects
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
