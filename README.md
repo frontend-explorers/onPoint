@@ -16,7 +16,7 @@
 ### #6 "On Point" talks
 #### 19.04.2019<br /> Floor 10, Room "Stand-up"
 
-> <b>Bad react practices (work title)</b>
+> <b>Bad, Bad, Bad React!</b>
 <br />Nikoleta Terzieva (60min, BG)
 <br />Prerequisites: programming, react
 <br />
