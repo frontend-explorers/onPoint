@@ -1,6 +1,6 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 ### #5 "On Point" talks
-#### 29.03.2019<br /> Floor 10, Room "Stand-up"
+#### 05.04.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Unit testing for Angular, services and state management</b>
 <br />Anton Mitsev (60min, BG)
