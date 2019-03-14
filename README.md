@@ -1,6 +1,6 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 ### #5 "On Point" talks
-#### 01.04.2019<br /> Floor 10, Room "Stand-up"
+#### 29.03.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>Unit testing for Angular, services and state management</b>
 <br />Anton Mitsev (60min, BG)
@@ -8,13 +8,21 @@
 
 > <b>hooks !== class (work title)</b>
 <br />Ivaylo Zhekov (60min, BG)
-<br />Prerequisites: React (class components)
+<br />Prerequisites: programming, React (class components)
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
-### #5 "On Point" talks
-#### 24.04.2019<br /> Floor 10, Room "Stand-up"
+### #6 "On Point" talks
+#### 19.04.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>Bad react practices (work title)</b>
+<br />Nikoleta Terzieva (60min, BG)
+<br />Prerequisites: programming, react
+<br />
+
+### #7 "On Point" talks
+#### 10.05.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>RoadMaps to Application Development</b>
 <br />Ivelina Kostadinova (60min, BG)
