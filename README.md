@@ -1,17 +1,4 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
-### #5 "On Point" talks
-#### 05.04.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>Unit testing for Angular, services and state management</b>
-<br />Anton Mitsev (60min, BG)
-<br />Prerequisites: Angular, NGRX, unit testing
-
-> <b>hooks !== class (work title)</b>
-<br />Ivaylo Zhekov (60min, BG)
-<br />Prerequisites: programming, React (class components)
-<br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 ### #6 "On Point" talks
 #### 19.04.2019<br /> Floor 10, Room "Stand-up"
@@ -19,7 +6,13 @@
 > <b>Bad, Bad, Bad React!</b>
 <br />Nikoleta Terzieva (60min, BG)
 <br />Prerequisites: programming, react
+
+> <b>Code reviews. How not to be an a**hole?</b>
+<br />Mariana Dincheva (60min, BG)
+<br />Prerequisites: code reviews
 <br />
+
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 ### #7 "On Point" talks
 #### 10.05.2019<br /> Floor 10, Room "Stand-up"
@@ -34,6 +27,18 @@
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
+### #5 "On Point" talks
+#### 05.04.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>Unit testing for Angular, services and state management</b>
+<br />Anton Mitsev (60min, BG)
+<br />Prerequisites: Angular, NGRX, unit testing
+
+> <b>hooks !== class (work title)</b>
+<br />Ivaylo Zhekov (60min, BG)
+<br />Prerequisites: programming, React (class components)
+<br />
 
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
