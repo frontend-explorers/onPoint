@@ -34,6 +34,7 @@
 > <b>Unit testing for Angular, services and state management</b>
 <br />Anton Mitsev (60min, BG)
 <br />Prerequisites: Angular, NGRX, unit testing
+<br /><a href="https://github.com/frontend-explorers/onPoint/raw/master/presentations/on-point-5-amitsev.zip">Presentation</a>
 
 > <b>hooks !== class (work title)</b>
 <br />Ivaylo Zhekov (60min, BG)
