@@ -39,7 +39,7 @@
 > <b>hooks !== class (work title)</b>
 <br />Ivaylo Zhekov (60min, BG)
 <br />Prerequisites: programming, React (class components)
-<br />
+<br /><a href="https://n33vmqmv8m.codesandbox.io/#/">Presentation</a>
 
 ### #4 "On Point" talks
 #### 01.03.2019<br /> Floor 10, Room "Stand-up"
