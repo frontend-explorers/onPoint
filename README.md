@@ -6,6 +6,7 @@
 > <b>Organize your project => Organize your mind</b>
 <br />Ruslan Nikolov (45min, BG)
 <br />Prerequisites: programming, react
+<br /><a href="https://docs.google.com/presentation/d/16QJ6HoFWNg89_7yRtDQmT8XZnDR1KlXwBdYTHU--soc/edit#slide=id.gc6f73a04f_0_0">Presentation</a>
 
 > <b>Code reviews. How not to be an a**hole?</b>
 <br />Mariana Dincheva (60min, BG)
