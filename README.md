@@ -7,9 +7,9 @@
 <br />Georgi Genov (60min, BG)
 <br />Prerequisites: coding
 
-> <b>[Free spot]</b>
-<br />- (XXmin, XX)
-<br />Prerequisites: []
+> <b>Game changing VSCode features.</b>
+<br />Ruslan Nikolov - (45min, BG)
+<br />Prerequisites: experience using IDE
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
