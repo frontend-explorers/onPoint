@@ -1,22 +1,25 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 
-### #8 "On Point" talks
-#### 7.06.2019<br /> Floor 10, Room "Stand-up"
-
-> <b>Bad Code? No thanks!</b>
-<br />Georgi Genov (60min, BG)
-<br />Prerequisites: coding
-
-> <b>Game changing VSCode features.</b>
-<br />Ruslan Nikolov - (45min, BG)
-<br />Prerequisites: experience using IDE
-<br />
+-
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 -
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
+### #8 "On Point" talks
+#### 7.06.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>Bad Code? No thanks!</b>
+<br />Georgi Genov (60min, BG)
+<br />Prerequisites: coding
+<br /><a href="https://github.com/frontend-explorers/onPoint/blob/master/presentations/%238%20onPoint%20-%20%20BadCodeNoThanks_GeorgiGenov.pptx">Presentation</a>
+
+> <b>Game changing VSCode features.</b>
+<br />Ruslan Nikolov - (45min, BG)
+<br />Prerequisites: experience using IDE
+<br />
 
 ### #7 "On Point" talks
 #### 10.05.2019<br /> Floor 10, Room "Stand-up"
@@ -29,8 +32,6 @@
 <br />Stoyan Karev (45min, BG)
 <br />Prerequisites: done projects
 <br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 ### #6 "On Point" talks
 #### 19.04.2019<br /> Floor 10, Room "Stand-up"
