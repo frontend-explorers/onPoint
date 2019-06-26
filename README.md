@@ -7,11 +7,6 @@
 <br />Nikolay Nenkov (60min, BG)
 <br />Prerequisites: undefined
 
-> <b>Empty slot</b>
-<br />Undefined - (XXmin, XX)
-<br />Prerequisites: undefined
-<br />
-
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
 -
