@@ -15,6 +15,7 @@
 > <b>SSO/OAuth 2.0</b>
 <br />Nikolay Nenkov (60min, BG)
 <br />Prerequisites: undefined
+<br />
 
 ### #8 "On Point" talks
 #### 7.06.2019<br /> Floor 10, Room "Stand-up"
