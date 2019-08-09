@@ -1,6 +1,16 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 
--
+### #10 "On Point" talks
+#### 5.10.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>C++ / JS</b>
+<br />Daniel Mateev (60min, BG)
+<br />Prerequisites: js
+
+> <b>Security (basics).</b>
+<br />Nikolay Aleksandrenko - (60min, BG)
+<br />Prerequisites: internet usage
+<br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
 
