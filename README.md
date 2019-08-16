@@ -1,6 +1,6 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 
-### #10 "On Point" talks
+### #11 "On Point" talks
 #### 4.10.2019<br /> Floor 10, Room "Stand-up"
 
 > <b>C++ / JS</b>
@@ -18,6 +18,18 @@
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
 
+
+### #10 "On Point" talks
+#### 4.10.2019<br /> Floor 10, Room "Stand-up"
+
+> <b>PDF is not scary</b>
+<br />Valery Buchinski (45min, EN)
+<br />Prerequisites: -
+
+> <b>MICROfrontends</b>
+<br />Nikolay Aleksandrenko (45min, BG)
+<br />Prerequisites: -
+<br />
 
 ### #9 "On Point" talks
 #### 5.07.2019<br /> Floor 10, Room "Stand-up"
