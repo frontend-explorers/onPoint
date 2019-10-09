@@ -1,11 +1,11 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 
-### #11 "On Point" talks
-#### 13.09.2019<br /> Floor 10, Room "Stand-up"
+### #12 "On Point" talks
+#### 18.10.2019<br /> Floor 10, Room "Stand-up"
 
-><b>Web application security.</b>
-<br />Nikolay Aleksandrenko - (60min, BG)
-<br />Prerequisites: internet usage
+><b>Introduction to Gatsby.js</b>
+<br />Nikola Kalinov (60min, BG)
+<br />Prerequisites: -
 <br />
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
@@ -13,6 +13,15 @@
 -
 
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
+
+### #11 "On Point" talks
+#### 13.09.2019<br /> Floor 10, Room "Stand-up"
+
+><b>Web application security.</b>
+<br />Nikolay Aleksandrenko (60min, BG)
+<br />Prerequisites: internet usage
+<br />
 
 
 ### #10 "On Point" talks
