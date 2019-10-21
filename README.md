@@ -1,5 +1,11 @@
 # <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/next.png?raw=true"> NEXT EVENT
 
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
+
+-
+
+# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
+
 ### #12 "On Point" talks
 #### 18.10.2019<br /> Floor 10, Room "Stand-up"
 
@@ -7,12 +13,6 @@
 <br />Nikola Kalinov (60min, BG)
 <br />Prerequisites: -
 <br />
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/future.png?raw=true"> UPCOMING EVENTS
-
--
-
-# <img width="25" src="https://github.com/FED-EPAM/onPoint/blob/master/assets/past.png?raw=true"> PASSED EVENTS
 
 
 ### #11 "On Point" talks
